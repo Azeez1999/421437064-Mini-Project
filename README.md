@@ -1,5 +1,3 @@
-To create a README file for your GitHub repository that effectively explains your project, follow these steps. Below is an example template tailored for your Buddy System project written in Java, developed as a Maven project in IntelliJ IDEA:
-
 # Buddy System Memory Management Project
 
 ### Overview
